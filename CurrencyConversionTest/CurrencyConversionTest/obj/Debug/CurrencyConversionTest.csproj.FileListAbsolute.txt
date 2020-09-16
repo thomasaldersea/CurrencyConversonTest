@@ -1,0 +1,15 @@
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\MainWindow.g.cs
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\App.g.cs
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest_MarkupCompile.cache
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest_MarkupCompile.lref
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\bin\Debug\CurrencyConversionTest.exe.config
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\bin\Debug\CurrencyConversionTest.exe
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\bin\Debug\CurrencyConversionTest.pdb
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\MainWindow.baml
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest.g.resources
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest.Properties.Resources.resources
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest.csproj.GenerateResource.cache
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest.exe
+C:\Users\thoma\source\repos\CurrencyConversionTest\CurrencyConversionTest\obj\Debug\CurrencyConversionTest.pdb
